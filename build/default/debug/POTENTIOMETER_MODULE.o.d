@@ -1,0 +1,1 @@
+build/default/debug/POTENTIOMETER_MODULE.o: POTENTIOMETER_MODULE.c

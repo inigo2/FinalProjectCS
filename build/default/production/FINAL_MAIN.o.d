@@ -1,0 +1,12 @@
+build/default/production/FINAL_MAIN.o: FINAL_MAIN.c HCSR04.h UART.h \
+ MOTOR.h DELAYS.h POTENTIOMETER.h
+
+HCSR04.h:
+
+UART.h:
+
+MOTOR.h:
+
+DELAYS.h:
+
+POTENTIOMETER.h:

@@ -1,0 +1,1 @@
+build/default/production/POTENTIOMETER_MODULE.o: POTENTIOMETER_MODULE.c
